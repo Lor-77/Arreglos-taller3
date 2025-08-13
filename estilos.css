@@ -1,0 +1,32 @@
+body{
+    font-family: Tahoma;
+    font-size: 12px;
+}
+nav{
+    text-align: center;
+    background-color: rgb(219, 196, 255);
+    padding: 10px;
+    font-weight: bold;
+
+}
+nav > span{
+    cursor: pointer;
+    color: rgb(2, 1, 1);
+    font-weight: bold;
+}
+nav> span:hover{
+    color: #066;
+}
+#Ejercicio1, #Ejercicio2, #Ejercicio3, #Ejercicio4, #Ejercicio5, #Ejercicio6, #Ejercicio7{
+    display: none;
+}
+#resiltado, #enunciado{
+    width: 50%;
+     padding: 10px;
+}
+#resultado{
+    background-color: rgb(200, 200, 206);
+    padding: 10px;
+    color: azure;
+     font-weight: bold;
+}
