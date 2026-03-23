@@ -9,6 +9,7 @@ function mostrar(dato){
          document.getElementById("Ejercicio6").style.display="none";
          document.getElementById("Ejercicio7").style.display="none";
         break;
+            
         case 2:
          document.getElementById("Ejercicio1").style.display="none";
          document.getElementById("Ejercicio2").style.display="block";
